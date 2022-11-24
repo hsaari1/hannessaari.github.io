@@ -1,0 +1,28 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgrey;
+}
+
+h2 {
+    
+    text-shadow: 2px 2px 5px black;
+    font-family: fantasy;
+}
+
+nav a:hover {
+    color: black;
+    background-color: red;
+}
+
+nav {
+    font-family: fantasy;
+}
+
+p {
+    font-family: fantasy;
+}
+
+h1 {
+    font-family: fantasy;
+}
